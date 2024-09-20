@@ -20,7 +20,7 @@
     },
     "require-dev": {
         "laravel/pint": "^1.13",
-        "pestphp/pest": "^2.21",
+        "pestphp/pest": "^3.1",
         "spatie/pest-plugin-snapshots": "^2.1"
     },
     "minimum-stability": "dev",
